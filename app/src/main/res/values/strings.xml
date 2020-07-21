@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+    <string name="x">X:</string>
+    <string name="y">Y:</string>
+    <string name="z">Z:</string>
+    <string name="acc_body_x">acc_body_x:</string>
+    <string name="acc_body_y">acc_body_y:</string>
+    <string name="acc_body_z">acc_body_z:</string>
+    <string name="gyro_body_x">gyro_body_x:</string>
+    <string name="gyro_body_y">gyro_body_y:</string>
+    <string name="gyro_body_z">gyro_body_z:</string>
+    <string name="walking">Walking:</string>
+    <string name="walking_upstairs">Walking upstairs:</string>
+    <string name="walking_downstairs">Walking downstairs:</string>
+    <string name="sitting">Sitting:</string>
+    <string name="standing">Standing:</string>
+    <string name="laying">Laying:</string>
+    <string name="reset">RESET</string>
+    <string name="start">START</string>
+</resources>
